@@ -1,0 +1,66 @@
+@media only screen and (max-width: 500px) {
+
+    header{
+        padding: 10px 10px;
+    }
+
+    .logoContainer{
+        min-height: 40px;
+        font-size: 2.2rem;
+    }
+
+    nav{
+        gap: 20px;
+        padding: 20px 10px;
+    }
+
+    .navBtn{
+        font-size: 1.3rem;
+    }
+
+    .cd-Container{
+        padding: 10px 10px;
+        gap: 20px;
+    }
+
+    .countdown{
+        font-size: 4rem;
+    }
+
+    .ms{
+        font-size: 1.6rem;
+    }
+
+    .sw-Btn{
+        font-size: 1rem;
+        width: 80px;
+        height: 80px;
+    }
+
+    .timeTable{
+        padding: 10px 10px;
+    }
+
+    .timeTable{
+        gap: 10px;font-size: 1.4rem;
+    }
+
+    .t-ms{
+        font-size: 1rem;
+    }
+
+    .editor{
+        padding: 10px 10px;
+        gap: 15px;
+    }
+
+    .inputContainer{
+        width: 100%;
+    }
+
+    .timeInput{
+        font-size: 1.5rem;
+    }
+
+
+}
