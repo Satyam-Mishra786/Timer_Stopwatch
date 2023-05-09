@@ -17,19 +17,24 @@
 header {
   display: flex;
   flex-direction: column;
-  font-family: var(--font);
-  padding: 20px 70px;
 }
 
 .logoContainer {
+  /* background: radial-gradient(circle, rgba(45,110,102,1) 0%, rgba(25,35,36,1) 100%); */
+  background: radial-gradient(circle, rgba(90,167,157,1) 0%, rgba(59,77,79,1) 100%);
   display: flex;
-  color: rgb(19 83 62);
+  justify-content: center;
+  color: rgb(54, 6, 57);
   text-decoration-line:underline;
   align-items: center;
   min-height: 50px;
+  font-family: var(--digi-font);
+
   font-size: 3rem;
   letter-spacing: 3px;
   font-weight: bold;
+  padding: 20px 70px;
+
   font-family: var(--digi-font);
 }
 
@@ -39,7 +44,7 @@ nav {
   flex-wrap: wrap;
   gap: 30px;
   font-family: inherit;
-  padding: 40px 30px;
+  padding: 20px 70px;
 }
 
 .navBtn {

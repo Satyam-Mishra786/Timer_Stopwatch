@@ -41,7 +41,6 @@ const Stopwatch = () => {
     };
 
     const run = () => {
-        console.log("run");
         if (updatedMinute === 60) {
             updatedHour++;
             updatedMinute = 0;
@@ -99,6 +98,8 @@ const Stopwatch = () => {
                     </button>
                 </div>
             </div>
+            {
+                splitTable.length > 0 &&
             <div className="timeTable">
                 <div className="timeRow">
                     <div className="sNoHead">S.No.</div>
@@ -123,6 +124,7 @@ const Stopwatch = () => {
                     );
                 })}
             </div>
+            }
         </>
     );
 };

@@ -45,6 +45,7 @@ const Timer = () => {
             updatedMiliSecond === 0
         ) {
             clearInterval(cancelInterval);
+            setIsStarted(false);
             return;
         }
 
