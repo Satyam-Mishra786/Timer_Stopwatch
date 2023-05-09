@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Timer_Stopwatch/static/css/main.827bbcc2.css",
+    "main.css": "/Timer_Stopwatch/static/css/main.c1f67ade.css",
     "main.js": "/Timer_Stopwatch/static/js/main.6e2e2099.js",
     "index.html": "/Timer_Stopwatch/index.html",
-    "main.827bbcc2.css.map": "/Timer_Stopwatch/static/css/main.827bbcc2.css.map",
+    "main.c1f67ade.css.map": "/Timer_Stopwatch/static/css/main.c1f67ade.css.map",
     "main.6e2e2099.js.map": "/Timer_Stopwatch/static/js/main.6e2e2099.js.map"
   },
   "entrypoints": [
-    "static/css/main.827bbcc2.css",
+    "static/css/main.c1f67ade.css",
     "static/js/main.6e2e2099.js"
   ]
 }
