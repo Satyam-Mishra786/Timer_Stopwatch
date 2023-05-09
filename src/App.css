@@ -24,7 +24,7 @@ header {
   background: radial-gradient(circle, rgba(90,167,157,1) 0%, rgba(59,77,79,1) 100%);
   display: flex;
   justify-content: center;
-  color: rgb(54, 6, 57);
+  color: rgb(255, 255, 255);
   text-decoration-line:underline;
   align-items: center;
   min-height: 50px;
